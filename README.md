@@ -1,2 +1,2 @@
 # POO
-estudos de poo com java, através também da disciplina progração orientada a objetos
+estudos de poo com java, através também da disciplina programação orientada a objetos
