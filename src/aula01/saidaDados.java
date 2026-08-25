@@ -1,6 +1,6 @@
 package aula01;
 
-public class saidaDados {
+public class SaidaDados {
 	public static void main(String [] args) {
 		String nome = "Carlos";
 		int idade = 95;

@@ -3,7 +3,7 @@ package aula02;
 // verificar qual é o maior valor entre 3 valores dados de entrada
 import java.util.Scanner;
 
-public class exercicio2 {
+public class Exercicio2 {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.print("Valor 1: ");

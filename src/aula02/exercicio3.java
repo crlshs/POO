@@ -3,7 +3,7 @@ package aula02;
 // dar um desconto de 10% caso o valor da compra seja maior que 50, se nao, um desconto de 5%
 import java.util.Scanner;
 
-public class exercicio3 {
+public class Exercicio3 {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		
